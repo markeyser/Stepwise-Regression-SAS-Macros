@@ -1,0 +1,15 @@
+There is a real SAS code Jupyter Notebook here:
+
+~/SASUniversityEdition/myfolders/Backwards-Elimination-SAS-Macro-Real-Code.ipynb
+
+The notebook should be in this directory because only there you can open the notebook using SAS.
+
+The notebook:
+
+Backwards-Elimination-SAS-Macro-Real-Code.ipynb
+
+In this directory is only a recreation of the original paper. 
+
+I'm using in my blog markeyser.com a lightly modified version of the real SAS code version of the notebook.
+
+The same for the Forward selection case.
